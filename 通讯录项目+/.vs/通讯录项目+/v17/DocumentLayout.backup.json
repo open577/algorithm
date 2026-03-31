@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u7B97\u6CD5\\\u901A\u8BAF\u5F55\u9879\u76EE\u002B\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DABDB57E-3CD9-4C0F-A641-4C96643F942E}|\u901A\u8BAF\u5F55\u9879\u76EE\u002B\\\u901A\u8BAF\u5F55\u9879\u76EE\u002B.vcxproj|D:\\\u7B97\u6CD5\\\u901A\u8BAF\u5F55\u9879\u76EE\u002B\\\u901A\u8BAF\u5F55\u9879\u76EE\u002B\\Text.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DABDB57E-3CD9-4C0F-A641-4C96643F942E}|\u901A\u8BAF\u5F55\u9879\u76EE\u002B\\\u901A\u8BAF\u5F55\u9879\u76EE\u002B.vcxproj|solutionrelative:\u901A\u8BAF\u5F55\u9879\u76EE\u002B\\Text.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DABDB57E-3CD9-4C0F-A641-4C96643F942E}|\u901A\u8BAF\u5F55\u9879\u76EE\u002B\\\u901A\u8BAF\u5F55\u9879\u76EE\u002B.vcxproj|D:\\\u7B97\u6CD5\\\u901A\u8BAF\u5F55\u9879\u76EE\u002B\\\u901A\u8BAF\u5F55\u9879\u76EE\u002B\\Contact.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DABDB57E-3CD9-4C0F-A641-4C96643F942E}|\u901A\u8BAF\u5F55\u9879\u76EE\u002B\\\u901A\u8BAF\u5F55\u9879\u76EE\u002B.vcxproj|solutionrelative:\u901A\u8BAF\u5F55\u9879\u76EE\u002B\\Contact.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DABDB57E-3CD9-4C0F-A641-4C96643F942E}|\u901A\u8BAF\u5F55\u9879\u76EE\u002B\\\u901A\u8BAF\u5F55\u9879\u76EE\u002B.vcxproj|D:\\\u7B97\u6CD5\\\u901A\u8BAF\u5F55\u9879\u76EE\u002B\\\u901A\u8BAF\u5F55\u9879\u76EE\u002B\\Contact.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DABDB57E-3CD9-4C0F-A641-4C96643F942E}|\u901A\u8BAF\u5F55\u9879\u76EE\u002B\\\u901A\u8BAF\u5F55\u9879\u76EE\u002B.vcxproj|solutionrelative:\u901A\u8BAF\u5F55\u9879\u76EE\u002B\\Contact.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Contact.h",
+              "DocumentMoniker": "D:\\\u7B97\u6CD5\\\u901A\u8BAF\u5F55\u9879\u76EE\u002B\\\u901A\u8BAF\u5F55\u9879\u76EE\u002B\\Contact.h",
+              "RelativeDocumentMoniker": "\u901A\u8BAF\u5F55\u9879\u76EE\u002B\\Contact.h",
+              "ToolTip": "D:\\\u7B97\u6CD5\\\u901A\u8BAF\u5F55\u9879\u76EE\u002B\\\u901A\u8BAF\u5F55\u9879\u76EE\u002B\\Contact.h",
+              "RelativeToolTip": "\u901A\u8BAF\u5F55\u9879\u76EE\u002B\\Contact.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-06T14:29:53.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Contact.c",
+              "DocumentMoniker": "D:\\\u7B97\u6CD5\\\u901A\u8BAF\u5F55\u9879\u76EE\u002B\\\u901A\u8BAF\u5F55\u9879\u76EE\u002B\\Contact.c",
+              "RelativeDocumentMoniker": "\u901A\u8BAF\u5F55\u9879\u76EE\u002B\\Contact.c",
+              "ToolTip": "D:\\\u7B97\u6CD5\\\u901A\u8BAF\u5F55\u9879\u76EE\u002B\\\u901A\u8BAF\u5F55\u9879\u76EE\u002B\\Contact.c",
+              "RelativeToolTip": "\u901A\u8BAF\u5F55\u9879\u76EE\u002B\\Contact.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-01-06T14:29:32.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Text.c",
+              "DocumentMoniker": "D:\\\u7B97\u6CD5\\\u901A\u8BAF\u5F55\u9879\u76EE\u002B\\\u901A\u8BAF\u5F55\u9879\u76EE\u002B\\Text.c",
+              "RelativeDocumentMoniker": "\u901A\u8BAF\u5F55\u9879\u76EE\u002B\\Text.c",
+              "ToolTip": "D:\\\u7B97\u6CD5\\\u901A\u8BAF\u5F55\u9879\u76EE\u002B\\\u901A\u8BAF\u5F55\u9879\u76EE\u002B\\Text.c*",
+              "RelativeToolTip": "\u901A\u8BAF\u5F55\u9879\u76EE\u002B\\Text.c*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-01-06T14:36:42.681Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
