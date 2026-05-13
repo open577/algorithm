@@ -5,9 +5,12 @@
 #include<assert.h>
 #include<map>
 using namespace std;
-//static map<str=ing, int> Pri = {{"+",1},{"-",1},{"*",2},{"/",2}};
+map<string,int> Pri = {{"+",1},{"-",1},{"*",2},{"/",2}};
+
 int operatorPrecedence(char ch)
 {
+	map<string,int>::iterator it=Pri.find("+");
+
 	struct opPD
 	{
 		char _op;
@@ -99,6 +102,7 @@ int main()
 	string str = "1+2-(3*4+5)-7";
 	RPN(str, size, v1);
 	//RPN(s1,size1,v);
+	std::cout << endl;
 	return  0;
 }
 
