@@ -1,6 +1,0 @@
-﻿  Text.c
-D:\算法\通讯录项目+\通讯录项目+\Text.c(8,2): warning C4013: “SLInsert”未定义；假设外部返回 int
-x64\Debug\Contact.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
-Text.obj : error LNK2019: 无法解析的外部符号 BEG1，函数 main 中引用了该符号
-Text.obj : error LNK2019: 无法解析的外部符号 SLInsert，函数 main 中引用了该符号
-D:\算法\通讯录项目+\x64\Debug\通讯录项目+.exe : fatal error LNK1120: 2 个无法解析的外部命令

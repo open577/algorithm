@@ -1,3 +1,0 @@
-﻿  Text.cpp
-D:\算法\二叉树层序遍历\二叉树层序遍历\Text.cpp(50,34): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
-  二叉树层序遍历.vcxproj -> D:\算法\二叉树层序遍历\x64\Debug\二叉树层序遍历.exe
