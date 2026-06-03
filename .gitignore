@@ -45,4 +45,15 @@ install_manifest.txt
 # 3. 过滤脚本自身（可选）
 # ==========================================
 # 如果你不想把一键推送的脚本传到 GitHub/Gitee 上，可以取消下面这行的注释
-# push.sh
+3. **粘贴配置内容**：
+   * 此时终端会进入一个空白编辑界面。按下键盘上的字母 **`i`** 键（左下角会显示 `-- INSERT --`，表示进入输入模式）。
+   * 把下面这段专门针对 Visual Studio 的忽略规则复制，然后在终端里**右键点击选择 Paste（粘贴）**：
+     ```text
+     .vs/
+     Debug/
+     Release/
+     x64/
+     *.sln
+     *.vcxproj
+     *.vcxproj.filters
+     *.user
