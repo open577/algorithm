@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37216.2 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "153-寻找旋转排序数组中的最小值", "153-寻找旋转排序数组中的最小值\153-寻找旋转排序数组中的最小值.vcxproj", "{FFB315B4-55EE-46C4-A968-C61A29F6148B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFB315B4-55EE-46C4-A968-C61A29F6148B}.Debug|x64.ActiveCfg = Debug|x64
+		{FFB315B4-55EE-46C4-A968-C61A29F6148B}.Debug|x64.Build.0 = Debug|x64
+		{FFB315B4-55EE-46C4-A968-C61A29F6148B}.Debug|x86.ActiveCfg = Debug|Win32
+		{FFB315B4-55EE-46C4-A968-C61A29F6148B}.Debug|x86.Build.0 = Debug|Win32
+		{FFB315B4-55EE-46C4-A968-C61A29F6148B}.Release|x64.ActiveCfg = Release|x64
+		{FFB315B4-55EE-46C4-A968-C61A29F6148B}.Release|x64.Build.0 = Release|x64
+		{FFB315B4-55EE-46C4-A968-C61A29F6148B}.Release|x86.ActiveCfg = Release|Win32
+		{FFB315B4-55EE-46C4-A968-C61A29F6148B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {938B8435-99E4-42DC-B562-A3A2D73C5FD1}
+	EndGlobalSection
+EndGlobal
